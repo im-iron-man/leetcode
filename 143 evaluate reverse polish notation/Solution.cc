@@ -7,7 +7,7 @@ class Solution
 	
 			for(auto x: tokens)
 			{
-				if(x != "+" && x != "-" && x != "*" && x != "/") value.push(atoi(x.c_str()));
+				if(x != "+" && x != "-" && x != "*" && x != "/") value.push(stoi(x));
 				else
 				{
 					int b = value.top();

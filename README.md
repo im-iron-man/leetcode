@@ -27,5 +27,7 @@
 - [025 binary tree level order traversal](https://github.com/im-iron-man/leetcode/tree/master/025%20binary%20tree%20level%20order%20traversal)
 - [026 binary tree preorder traversal](https://github.com/im-iron-man/leetcode/tree/master/026%20binary%20tree%20preorder%20traversal)
 - [027 single number](https://github.com/im-iron-man/leetcode/tree/master/027%20single%20number)
+- [028 remove duplicates from sorted array]()
+- [029 remove element]()
 - [127 minimum depth of binary tree](https://github.com/im-iron-man/leetcode/tree/master/127%20minimum%20depth%20of%20binary%20tree)
 - [143 evaluate reverse polish notation](https://github.com/im-iron-man/leetcode/tree/master/143%20evaluate%20reverse%20polish%20notation)

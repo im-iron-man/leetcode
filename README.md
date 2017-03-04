@@ -29,5 +29,7 @@
 - [027 single number](https://github.com/im-iron-man/leetcode/tree/master/027%20single%20number)
 - [028 remove duplicates from sorted array](https://github.com/im-iron-man/leetcode/tree/master/028%20remove%20duplicates%20from%20sorted%20array)
 - [029 remove element](https://github.com/im-iron-man/leetcode/tree/master/029%20remove%20element)
+- [030 n queens ii]()
+- [031 jump game ii]()
 - [127 minimum depth of binary tree](https://github.com/im-iron-man/leetcode/tree/master/127%20minimum%20depth%20of%20binary%20tree)
 - [143 evaluate reverse polish notation](https://github.com/im-iron-man/leetcode/tree/master/143%20evaluate%20reverse%20polish%20notation)

@@ -31,5 +31,8 @@
 - [029 remove element](https://github.com/im-iron-man/leetcode/tree/master/029%20remove%20element)
 - [030 n queens ii](https://github.com/im-iron-man/leetcode/tree/master/030%20n%20queens%20ii)
 - [031 jump game ii](https://github.com/im-iron-man/leetcode/tree/master/031%20jump%20game%20ii)
+- [032 minimum path sum]()
+- [033 search in rotated sorted array]()
+- [034 search insert position]()
 - [127 minimum depth of binary tree](https://github.com/im-iron-man/leetcode/tree/master/127%20minimum%20depth%20of%20binary%20tree)
 - [143 evaluate reverse polish notation](https://github.com/im-iron-man/leetcode/tree/master/143%20evaluate%20reverse%20polish%20notation)
